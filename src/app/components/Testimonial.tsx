@@ -82,7 +82,7 @@ const TestimonialCarousel = () => {
                             style={{ backgroundColor: "rgba(255, 230, 243, 0.42)" }}
                         >
                             <p className="text-lg text-gray-600 italic mb-4">
-                                "{testimonial.message}"
+                                &quot{testimonial.message}&quot
                             </p>
                             <h3 className="text-xl font-bold text-gray-800">
                                 {testimonial.name}
