@@ -1,4 +1,4 @@
-// import FeatureComponent from './components/Feature';
+import FeatureComponent from './components/Feature';
 import FooterComponent from './components/Footer';
 import HeroComponent from './components/Hero';
 import TestimonialCarousel from './components/Testimonial';
